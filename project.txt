@@ -1,0 +1,9 @@
+chatbot/
+├── backend/
+│   └── ChatBotServlet.java
+├── webapp/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+└── WEB-INF/
+    └── web.xml
